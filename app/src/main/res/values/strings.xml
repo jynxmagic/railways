@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RailwayMap</string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="find_me_button_string">Find me!</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiY2hyaXNjYXJyMDE2MSIsImEiOiJjazhoOXA2eXUwMmJuM2V0YXg5YndwNm45In0.FZ8BYWQhXLCBcEaUC5aAAw</string>
+
+</resources>
